@@ -1,4 +1,4 @@
-### Imersao Dados
+### Imersão Dados
 
 Semana de Imersão na de Ciência de Dados da Alura
 
